@@ -8,8 +8,7 @@ Putting my focus on deep-learning HTML, CSS, JavaScript, React, and NodeJS.
 
 Connect with me by
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-ramires)](https://www.linkedin.com/in/marcio-ramires/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-marcioramires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-ramires)](https://www.linkedin.com/in/marcio-ramires/)
 [![Gmail Badge](https://img.shields.io/badge/-marcioramiresgt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcioramiresgt@gmail.com)](mailto:marcioramiresgt@gmail.com)
 
   
