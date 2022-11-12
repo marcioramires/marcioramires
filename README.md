@@ -16,6 +16,7 @@ Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HT
 Keep im touch! :raising_hand:
 <br/>
 <br/>
+<br/>
 ## ⚡ Technologies
 <br/>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
