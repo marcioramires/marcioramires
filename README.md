@@ -9,6 +9,7 @@ Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HT
 <br/>
 <br/>
 ## Connect with me by:
+#
 <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-marcioramires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-ramires)](https://www.linkedin.com/in/marcio-ramires/)
 [![Gmail Badge](https://img.shields.io/badge/-marcioramiresgt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcioramiresgt@gmail.com)](mailto:marcioramiresgt@gmail.com)
@@ -18,7 +19,8 @@ Keep im touch! :raising_hand:
 <br/>
 <br/>
 <br/>
-## ⚡ Technologies
+## ⚡ Technologies:
+#
 <br/>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
