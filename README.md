@@ -17,7 +17,6 @@ Keep im touch! :raising_hand:
 <br/>
 <br/>
 ## ⚡ Technologies
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
