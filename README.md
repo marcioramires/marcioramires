@@ -2,8 +2,9 @@
 <br/>
 I'm Marcio, a developer passionate about technology and solving problems!  :sweat_smile:
 <br/>
+<br/>
 Currently creating front-end and some back-end projects. :sunglasses:
-
+<br/>
 Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HTML and CSS.
 <br/>
 <br/>
