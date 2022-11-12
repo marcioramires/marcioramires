@@ -21,7 +21,7 @@ Keep im touch! :raising_hand:
 <br/>
 
 ## ⚡ Technologies
-#  
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,5 +29,6 @@ Keep im touch! :raising_hand:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
  
- 
+<br/>
+<br/> 
 :book: :headphones:
