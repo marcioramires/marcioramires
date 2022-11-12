@@ -5,7 +5,7 @@ I'm Marcio, a developer passionate about technology and solving problems!  :swea
 <br/>
 Currently creating front-end and some back-end projects. :sunglasses:
 <br/>
-Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HTML and CSS.
+Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HTML5 and CSS3
 <br/>
 <br/>
 ## Connect with me by:
