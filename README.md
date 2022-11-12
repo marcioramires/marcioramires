@@ -2,9 +2,9 @@
 
 I'm Marcio, a developer passionate about technology and solving problems!  :sweat_smile:
 
-Currently learning and creating front-end projects. :sunglasses:
+Currently creating front-end and some back-end projects. :sunglasses:
 
-Putting my focus on deep-learning HTML, CSS, JavaScript, React, and NodeJS.
+Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HTML and CSS.
 
 Connect with me by
 
@@ -16,9 +16,9 @@ Keep im touch! :raising_hand:
 
 ## ⚡ Technologies
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
