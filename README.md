@@ -7,7 +7,8 @@ Currently creating front-end and some back-end projects. :sunglasses:
 
 Looking to be a high level fullstack engineer. 👨🏻‍💻
 
-Putting my focus on deep-learning React, Node.js, MongoDB, Styled Components, HTML5 and CSS3  
+
+Putting my focus on deep-learning React, Vue, Node, Postgres, MongoDB, Styled Components, Docker, Azure, AWS, and more.  
   
   
 ## Connect with me by:  
