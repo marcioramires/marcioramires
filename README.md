@@ -3,7 +3,7 @@
 I'm Marcio, a developer passionate about technology and solving problems!  :sweat_smile:
   
   
-Currently creating front-end and some back-end projects. :sunglasses:  
+Currently creating  back-end and some front-end projects. :sunglasses:  
 
 Looking to be a high level fullstack engineer. 👨🏻‍💻
 
